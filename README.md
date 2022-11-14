@@ -6,7 +6,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 
 ## Skills and Learning: 
-`rgb(9, 105, 218)`**🎯REACT **
+**🎯REACT **
 🎯JS 
 🎯HTML 
 🎯CSS
