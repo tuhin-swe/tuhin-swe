@@ -6,13 +6,13 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 
 ## Skills and Learning: 
-**🎯REACT **
-🎯JS 
-🎯HTML 
-🎯CSS
-🎯MongoDB 
-🎯NodeJS 
-🎯ExpressJS 
+### 🎯REACT 
+### 🎯JS 
+### 🎯HTML 
+### 🎯CSS
+### 🎯MongoDB 
+### 🎯NodeJS 
+### 🎯ExpressJS 
 
 - 🔭 I’m currently working on Personal Project 
 - 🌱 I’m currently learning MERN 
