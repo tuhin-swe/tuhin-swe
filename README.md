@@ -61,7 +61,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools I Work With</h3>
+<h3 align="left">🛠️ Languages and Tools I Work With</h3>
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -89,3 +89,7 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
   </a>
 </p>
+<div align="center">
+  <img src="" alt="Testing Banner">
+</div>
+<h3 align="center"> "Seeking to become an SQA Lead!"</h3>
