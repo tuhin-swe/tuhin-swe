@@ -49,17 +49,6 @@
   </a>
 </p>
 
----
-
-### 📋 What I Do
-
-- Write & execute test cases for real-world applications
-- Log bugs with clarity and detail
-- Analyze user stories, edge cases & usability
-- Communicate with developers and stakeholders
-- Assist customers with POS software and remote setups
-
----
 
 <h3 align="left">🛠️ Languages and Tools I Work With</h3>
 
