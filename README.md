@@ -1,7 +1,6 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/Z8e9v0w.png" alt="SQA Banner" width="100%" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Arifur+Rahman+Tuhin" />
+</h1>
 
 <h1 align="center">👋 Hello, I'm Arifur Rahman Tuhin</h1>
 
