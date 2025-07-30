@@ -26,16 +26,14 @@
 
 - 📄 View my résumé: [SQA_Resume_Arifur_Rahman_Tuhin_2025](https://drive.google.com/file/d/1PJbBZRPp8QAu79iUcqJ4Qd-UUnJwM3Iz/view?usp=sharing)
 
----
+## 🛠️ Skills
 
-### 🧪 About Me
+- **Software Testing**: Strong understanding of **Manual Testing**, **API Testing** (using Postman), and **Database Testing**.
+- **Test Automation**: Learning automation using **Selenium** and **WebdriverIO** with **Mocha** framework.
+- **Test Reporting**: Experience integrating test automation with **Allure Reporter** for elegant result visualization.
+- **Bug & Issue Tracking**: Proficient in using **Jira** for bug tracking, task management, and collaboration.
+- **Test Documentation**: Skilled in writing detailed **Test Cases**, **Bug Reports**, and **Test Plans** following STLC.
 
-- 🎓 BSc in Software Engineering, 2023
-- 🧠 Currently focusing on Manual Testing and preparing for Automation (Selenium)
-- 📊 Working as **Team Lead – Software Support** at Shohoz Software
-- 🌱 Learning Web Development and improving SQA skills
-
----
 
 ### 🛠️ Tools & Technologies
 
