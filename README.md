@@ -18,13 +18,13 @@
 
 - 🌱 I’m currently learning **Automation Testing using WebdriverIO and Selenium**
 
-- 👨‍💻 Check out my QA works on [GitHub - ArifurTuhin](https://github.com/ArifurTuhin?tab=repositories)
+- 👨‍💻 Check out my QA works on [GitHub - ArifurTuhin](https://github.com/tuhin-swe?tab=repositories)
 
-- 💬 Ask me about **Manual Testing, API Testing (Postman), Bug Reporting, STLC, and Test Case Writing**
+- 💬 Ask me about **Manual Testing, API Testing (Postman), Bug Reporting, Automation Testing, STLC, and Test Case Writing**
 
-- 📫 Reach me via email: **arifurtuhin.se@gmail.com**
+- 📫 Reach me via email: **arifur.swe@gmail.com**
 
-- 📄 View my résumé: [SQA_Resume_Arifur_Rahman_Tuhin_2025](https://drive.google.com/drive/folders/YOUR_DRIVE_LINK_HERE)
+- 📄 View my résumé: [SQA_Resume_Arifur_Rahman_Tuhin_2025](https://drive.google.com/file/d/1PJbBZRPp8QAu79iUcqJ4Qd-UUnJwM3Iz/view?usp=sharing)
 
 ---
 
