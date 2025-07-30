@@ -79,6 +79,6 @@
   </a>
 </p>
 <div align="center">
-  <img src="" alt="Testing Banner">
+  <img src="https://github.com/tuhin-swe/tuhin-swe/blob/main/Banner.png" alt="Banner.png">
 </div>
 <h3 align="center"> "Seeking to become an SQA Lead!"</h3>
