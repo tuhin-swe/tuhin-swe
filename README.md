@@ -9,12 +9,22 @@
   </a>
 </h1>
 
-<h1 align="center">👋 Hello, I'm Arifur Rahman Tuhin</h1>
 
-<p align="center">
-  <strong>Software Quality Assurance (SQA) Engineer</strong><br>
-  Passionate about building high-quality software through detailed testing and continuous learning.
-</p>
+
+<h3 align="center">
+🧠 "Driven by curiosity and precision, I chase bugs and polish software to perfection. Every test I run is a step toward a smoother user experience." 🐞  
+|| Skilled in writing test plans, executing functional tests, exploring APIs, and maintaining QA documentation with accuracy ✨
+</h3>
+
+- 🌱 I’m currently learning **Automation Testing using WebdriverIO and Selenium**
+
+- 👨‍💻 Check out my QA works on [GitHub - ArifurTuhin](https://github.com/ArifurTuhin?tab=repositories)
+
+- 💬 Ask me about **Manual Testing, API Testing (Postman), Bug Reporting, STLC, and Test Case Writing**
+
+- 📫 Reach me via email: **arifurtuhin.se@gmail.com**
+
+- 📄 View my résumé: [SQA_Resume_Arifur_Rahman_Tuhin_2025](https://drive.google.com/drive/folders/YOUR_DRIVE_LINK_HERE)
 
 ---
 
