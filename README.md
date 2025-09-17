@@ -79,6 +79,11 @@
   </a>
 </p>
 <div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhin-swe&show_icons=true&locale=en&layout=compact" alt="Arifur Rahman Tuhin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuhin-swe&show_icons=true&locale=en" alt="Arifur Rahman Tuhin" /></p>
+  </div>
+<div align="center">
   <img src="https://github.com/tuhin-swe/tuhin-swe/blob/main/Banner.png" alt="Banner.png">
 </div>
 <h3 align="center"> "Seeking to become an SQA Lead!"</h3>
