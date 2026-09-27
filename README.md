@@ -24,7 +24,7 @@
 
 - 📫 Reach me via email: **arifur.swe@gmail.com**
 
-- 📄 View my Resume: [SQA_Resume_Arifur_Rahman_Tuhin_2025](https://drive.google.com/file/d/1Zcf35-3ySBJi4pk5Y4KJMe45R61vApxd/view?usp=sharing)
+- 📄 View my Resume: [Arifur_Rahman_Tuhin_Junior_SQA](https://drive.google.com/file/d/1Zcf35-3ySBJi4pk5Y4KJMe45R61vApxd/view?usp=sharing)
 
 ## 🛠️ Skills
 
