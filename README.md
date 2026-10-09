@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/tuhin-swe?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-  <a href="https://drive.google.com/file/d/1Zcf35-3ySBJi4pk5Y4KJMe45R61vApxd/view?usp=sharing"><img src="https://img.shields.io/badge/View%20My%20Resume-00C2FF?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1Qa5aLCiO13tnbpXW8R9uZoJ_CNWg5zTa/view?usp=sharing"><img src="https://img.shields.io/badge/View%20My%20Resume-00C2FF?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
   <a href="https://www.linkedin.com/in/arifur-rahman-tuhin-swe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:arifur.swe@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -236,7 +236,7 @@ Program progress  [██░░░░░░░░░░░░░░░░░░]
 <h3 align="center">Let's build quality software together</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Zcf35-3ySBJi4pk5Y4KJMe45R61vApxd/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-00C2FF?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1Qa5aLCiO13tnbpXW8R9uZoJ_CNWg5zTa/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-00C2FF?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
   <a href="https://www.linkedin.com/in/arifur-rahman-tuhin-swe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:arifur.swe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
