@@ -208,17 +208,17 @@ Program progress  [██░░░░░░░░░░░░░░░░░░]
 
 ---
 
-## Featured QA Work
+<!--## Featured QA Work  -->
 
 <!-- Replace each link below with the exact repository URL. Delete rows you don't want to show. -->
-
+<!--
 | Project | Type | Tools | What's inside |
 |---|---|---|---|
 | [E-commerce API Testing](https://github.com/tuhin-swe?tab=repositories) | API Testing | Postman | Test cases and test analysis |
 | [E-commerce Manual Testing](https://github.com/tuhin-swe?tab=repositories) | Manual Testing | Spreadsheets | Test cases, bug reports, test analysis |
 | [Playwright Practice](https://github.com/tuhin-swe?tab=repositories) | UI Automation | Playwright, JavaScript | Automated tests from my SDET course |
 | **Capstone: Real-world Project** | End-to-end QA and automation | *Coming soon* | Will be added after the program project |
-
+ -->
 <p align="center">
   <a href="https://github.com/tuhin-swe?tab=repositories"><img src="https://img.shields.io/badge/See%20All%20Projects%20%E2%86%92-7D64FF?style=for-the-badge" alt="All projects"/></a>
 </p>
